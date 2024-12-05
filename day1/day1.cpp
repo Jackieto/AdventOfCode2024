@@ -12,11 +12,6 @@ int main(){
     std::ifstream input;
     input.open("day1_input.txt");
     int suma = 0;
-
-    int array1[6];
-    int array2[6];
-
-    int counter = 0;
     int n;
 
     std::vector<int> v1;
